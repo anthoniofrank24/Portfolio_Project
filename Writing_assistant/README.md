@@ -149,9 +149,9 @@ intelligent-writing-assistant/
 ## Backend
 - **Clone the repository**<br/>
 ```sh
-git clone https://github.com/Robertpaschal/intelligent-writing-assistant.git
+git clone https://github.com/anthoniofrank24/Portfolio_Project
 
-cd intelligent-writing-assistant/backend
+cd Writing-assistant/backend
 ```
 - **Create a virtual environment**<br/>
 ```sh
