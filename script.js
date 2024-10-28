@@ -9,7 +9,7 @@ searchForm.addEventListener('submit', (e) => {
 
 async function searchRecipes() {
     const searchValue = searchInput.value.trim();
-    const response = await fetch(`https://api.edamam.com/search?q=${searchValue}&app_id=00ef6c73_key=6f0c127e9f78f5d401590fde3213cab3&from=0&to=10`);
+    const response = await fetch(`https://api.edamam.com/search?q=${searchValue}&app_id=00ef6c73_key=3ccf9f93eb0d3bf27661b065bb0248ae&from=0&to=10`);
     const data = await response.json();
     displayRecipes(data.hits);
 }

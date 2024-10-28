@@ -1,3 +1,3 @@
 ALX Capstone Project
 visit this link to use and view my reciepe finder
-https://reciepe-finder.onrender.com/
+https://anthoniofrank24.github.io/Portfolio_Project/
