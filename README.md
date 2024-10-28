@@ -1,3 +1,3 @@
-# Welcome to the repo!
-
-This directory contains instances of different project ideas tried for the ALX portfolio project. Each idea is unique and demainding in that way. Doing hard things culmunates here!
+ALX Capstone Project
+visit this link to use and view my reciepe finder
+https://reciepe-finder.onrender.com/
